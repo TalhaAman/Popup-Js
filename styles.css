@@ -9,7 +9,7 @@
 }
 button {
   display: block;
-  background-color: brown;
+  background-color: crimson;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -33,7 +33,7 @@ button {
 }
 .popup-content a {
   text-decoration: none;
-  background-color: brown;
+  background-color: crimson;
   color: white;
   padding: 10px 15px;
   cursor: pointer;
